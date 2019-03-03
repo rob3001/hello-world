@@ -3,4 +3,4 @@ tutorial repository
 
 This is a new line in this file
 
-There should be many more lines here. Why not?
+There shouldn't be so much text. Better replace this line. 
