@@ -3,6 +3,8 @@ tutorial repository
 
 This is a new line in this file
 
-There shouldn't be so much text. Better replace this line. 
+It's time to get some work done.
 
-Why not add another line of text. This time in the VS editor.
+Tasks:
+1. Task 1
+2. Task 2
