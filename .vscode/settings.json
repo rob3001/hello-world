@@ -1,6 +1,4 @@
 {
-<<<<<<< HEAD
-=======
     "terminal.integrated.env.osx": {
         "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
     },
@@ -9,9 +7,5 @@
     },
     "terminal.integrated.env.windows": {
         "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
-    },
-    "eslint.nodePath": "c:\\Users\\hessi\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-45.3.0\\node_modules",
->>>>>>> 34acc3001e19c2b1daf1667bfb78c554f19dfee3
-    "html.suggest.angular1": false,
-    "html.suggest.ionic": false
+    }
 }
