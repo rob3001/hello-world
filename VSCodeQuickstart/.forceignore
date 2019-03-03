@@ -3,6 +3,8 @@
 #
 
 package.xml
+settings.json
+C:\repo\hello-world\VSCodeQuickstart\.sfdx\typings\lwc
 
 # LWC configuration files
 **/jsconfig.json
